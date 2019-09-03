@@ -15,6 +15,7 @@ namespace KiWoomOpenAPI
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("test");
         }
     }
 }
